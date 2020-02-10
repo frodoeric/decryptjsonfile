@@ -1,0 +1,13 @@
+C:\Users\frodo\source\repos\DescriptJsonFile\DescriptJsonFile\bin\Debug\netcoreapp3.1\DescriptJsonFile.exe
+C:\Users\frodo\source\repos\DescriptJsonFile\DescriptJsonFile\bin\Debug\netcoreapp3.1\DescriptJsonFile.deps.json
+C:\Users\frodo\source\repos\DescriptJsonFile\DescriptJsonFile\bin\Debug\netcoreapp3.1\DescriptJsonFile.runtimeconfig.json
+C:\Users\frodo\source\repos\DescriptJsonFile\DescriptJsonFile\bin\Debug\netcoreapp3.1\DescriptJsonFile.runtimeconfig.dev.json
+C:\Users\frodo\source\repos\DescriptJsonFile\DescriptJsonFile\bin\Debug\netcoreapp3.1\DescriptJsonFile.dll
+C:\Users\frodo\source\repos\DescriptJsonFile\DescriptJsonFile\bin\Debug\netcoreapp3.1\DescriptJsonFile.pdb
+C:\Users\frodo\source\repos\DescriptJsonFile\DescriptJsonFile\obj\Debug\netcoreapp3.1\DescriptJsonFile.csprojAssemblyReference.cache
+C:\Users\frodo\source\repos\DescriptJsonFile\DescriptJsonFile\obj\Debug\netcoreapp3.1\DescriptJsonFile.AssemblyInfoInputs.cache
+C:\Users\frodo\source\repos\DescriptJsonFile\DescriptJsonFile\obj\Debug\netcoreapp3.1\DescriptJsonFile.AssemblyInfo.cs
+C:\Users\frodo\source\repos\DescriptJsonFile\DescriptJsonFile\obj\Debug\netcoreapp3.1\DescriptJsonFile.dll
+C:\Users\frodo\source\repos\DescriptJsonFile\DescriptJsonFile\obj\Debug\netcoreapp3.1\DescriptJsonFile.pdb
+C:\Users\frodo\source\repos\DescriptJsonFile\DescriptJsonFile\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\frodo\source\repos\DescriptJsonFile\DescriptJsonFile\obj\Debug\netcoreapp3.1\DescriptJsonFile.csproj.CopyComplete
